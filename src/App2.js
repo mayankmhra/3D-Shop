@@ -78,7 +78,7 @@ export default function App2() {
                 <HTMLContent domContent={domContent} modelPath="./armchairYellow.gltf" positionY={250} bgColor={'#f15946'}>
                    
                         <h1 className="title">
-                            Yellow
+                            Yelloww{console.log(modelPath)}
                         </h1>
                     
                 </HTMLContent>
