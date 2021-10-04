@@ -82,10 +82,10 @@ export default function App2() {
                         </h1>
                     
                 </HTMLContent>
-                <HTMLContent domContent={domContent} modelPath="../public/armchairGreen.gltf" positionY={0} bgColor={'#571ec1'}>
+                <HTMLContent domContent={domContent} modelPath="armchairGreen.gltf" positionY={0} bgColor={'#571ec1'}>
                    
                         <h1 className="title">
-                            Green
+                            Green Chair
                         </h1>
                    
                 </HTMLContent>
