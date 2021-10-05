@@ -8,19 +8,19 @@ export default function Header() {
         <nav>
           <ul>
             <li>
-              <a href='/'>discover</a>
+              <a href='#'>discover</a>
             </li>
             <li>
-              <a href='/'>products</a>
+              <a href='#'>products</a>
             </li>
             <li>
-              <a href='/'>solutions</a>
+              <a href='#'>solutions</a>
             </li>
             <li>
-              <a href='/'>reach</a>
+              <a href='#'>reach</a>
             </li>
             <li className='btn'>
-              <a href='/'>order</a>
+              <a href='#'>order</a>
             </li>
           </ul>
         </nav>
